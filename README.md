@@ -18,13 +18,11 @@ Logunun tutulmasını istemediğiniz logları config.lua içerisinden kapatabili
 
 
                                                               NOT
-Bu script fivemtürk'e özel yapılmıştır. İzinsiz bir şekilde başka bir yerde paylaşılması yasaktır.
-CYLEX_LOGSYSTEM adını değiştirirseniz script çalışmayacaktır!
-Eğer log sistemini SQL olarak kullanıcaksanız CYLEX_LOGSYSTEM içerisindeki data.sql'i yüklemeyi unutmayın.
-Eğer discord olarak kullanacaksanız Config.lua içerisinden tüm WEBHOOK_LINK_HERE yazan yerleri kendi webhook'unuz ile değiştirin.
+                              Bu script fivemtürk'e özel yapılmıştır. İzinsiz bir şekilde başka bir yerde paylaşılması yasaktır.
+                              CYLEX_LOGSYSTEM adını değiştirirseniz script çalışmayacaktır!
+                              Eğer log sistemini SQL olarak kullanıcaksanız CYLEX_LOGSYSTEM içerisindeki data.sql'i yüklemeyi unutmayın.
+                              Eğer discord olarak kullanacaksanız Config.lua içerisinden tüm WEBHOOK_LINK_HERE yazan yerleri kendi webhook'unuz ile değiştirin.
 
-
-                                                              ÖNİZLEME
 
                                                               DISCORD LOG
 https://www.fivemturk.com/attachments/1582651498995-png.5427/
