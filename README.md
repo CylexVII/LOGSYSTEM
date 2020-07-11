@@ -13,8 +13,8 @@ Logunun tutulmasını istemediğiniz logları config.lua içerisinden kapatabili
                                                         KURULUM
 1- Dosyayı indirin.
 2- İçindeki CYLEX_LOGSYSTEM scriptini resources klasörüne atıp server.cfg'ye start CYLEX_LOGSYSTEM ekleyin.
-3- Eğer meslek loglarının da çalışmasını istiyorsanız rar'ın içindeki MESLEK LOGLARI klasörünün içindekileri kullanmalısınız (biraz bilginiz varsa verdiğim mesleklere bakarak kendi mesleklerinize de uyarlayabilirsiniz.)
-4- Son olarak rar'ın içindeki es_extended klasörünün içindeki main.lua'yı paketinizdeki es_extended/server içine atın. (aynı şekilde isterseniz kendiniz de uyarlayabilirsiniz.)
+3- Eğer meslek loglarının da çalışmasını istiyorsanız dosya içindeki MESLEK LOGLARI klasörünün içindekileri kullanmalısınız (biraz bilginiz varsa verdiğim mesleklere bakarak kendi mesleklerinize de uyarlayabilirsiniz.)
+4- Son olarak dosya içindeki es_extended klasörünün içindeki main.lua'yı kendi paketinizdeki es_extended/server içine atın. (aynı şekilde isterseniz kendiniz de uyarlayabilirsiniz.)
 
 
                                                         NOT
