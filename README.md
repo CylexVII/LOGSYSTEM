@@ -1,0 +1,2 @@
+# LOGSYSTEM
+Ayrıntılı log sistemi.
