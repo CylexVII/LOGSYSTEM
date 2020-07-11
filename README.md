@@ -24,7 +24,7 @@ Eğer log sistemini SQL olarak kullanıcaksanız CYLEX_LOGSYSTEM içerisindeki d
 Eğer discord olarak kullanacaksanız Config.lua içerisinden tüm WEBHOOK_LINK_HERE yazan yerleri kendi webhook'unuz ile değiştirin.
 
 
-                                                                                                                                    DISCORD LOG
+                                                                  DISCORD LOG
 https://www.fivemturk.com/attachments/1582651498995-png.5427/
 
                                                                   SQL LOG
