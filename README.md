@@ -22,10 +22,3 @@ Bu script fivemtürk'e özel yapılmıştır. İzinsiz bir şekilde başka bir y
 CYLEX_LOGSYSTEM adını değiştirirseniz script çalışmayacaktır!
 Eğer log sistemini SQL olarak kullanıcaksanız CYLEX_LOGSYSTEM içerisindeki data.sql'i yüklemeyi unutmayın.
 Eğer discord olarak kullanacaksanız Config.lua içerisinden tüm WEBHOOK_LINK_HERE yazan yerleri kendi webhook'unuz ile değiştirin.
-
-
-                                                        DISCORD LOG
-https://www.fivemturk.com/attachments/1582651498995-png.5427/
-
-                                                        SQL LOG
-https://www.fivemturk.com/attachments/1582651543056-png.5428/
